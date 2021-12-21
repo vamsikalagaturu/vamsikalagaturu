@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsikalagaturu
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Autinomous Systems
+- 🌱 I’m currently learning Autonomous Systems
 - 💞️ I’m looking to collaborate on ML/AI/Robitics
 - 📫 How to reach me - vamsikalagaturu@gmail.com
 
