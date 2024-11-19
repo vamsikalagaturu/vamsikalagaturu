@@ -1,3 +1,3 @@
 - 🤖 Robotics - Manipulation, DSL, Integration, ROS.
 - 📫 vamsikalagaturu@gmail.com
-- https://vamsikalagaturu.github.io/#/
+- https://vamsikalagaturu.com
